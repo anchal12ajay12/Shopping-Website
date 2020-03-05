@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1170" height="90" viewBox="0 0 1170 90">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="50" height="50" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="50" height="50" transform="translate(118 690)" fill="#973939"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="50" height="50" transform="translate(418 690)" fill="#973939"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="50" height="50" transform="translate(718 690)" fill="#973939"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="50" height="50" transform="translate(1018 690)" fill="#ff8e0a"/>
+    </clipPath>
+  </defs>
+  <g id="bottom_information" transform="translate(-98 -694)">
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(98 694)" fill="#fff" stroke="#e2e2e2" stroke-width="2">
+      <rect width="1170" height="90" stroke="none"/>
+      <rect x="1" y="1" width="1168" height="88" fill="none"/>
+    </g>
+    <g id="Symbol_11_13" data-name="Symbol 11 – 13" transform="translate(118 714)" clip-path="url(#clip-path)">
+      <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(-118 -690)" clip-path="url(#clip-path-2)">
+        <g id="rocket" transform="translate(118 690)">
+          <g id="Group_43" data-name="Group 43">
+            <g id="Group_42" data-name="Group 42">
+              <path id="Path_27" data-name="Path 27" d="M49.565.435A1.485,1.485,0,0,0,48.43,0a40.157,40.157,0,0,0-9.077,1.9A44.53,44.53,0,0,0,21.567,12.585c-1.409,1.409-2.9,3-4.3,4.631C14.921,16.423,9.184,15.5.708,20.707A1.484,1.484,0,0,0,.9,23.336L10.4,27.4,7.3,30.632a1.484,1.484,0,0,0,.023,2.075l1.1,1.1A8.171,8.171,0,0,0,6.25,35.353c-3.454,3.454-2.695,9.523-2.661,9.78A1.484,1.484,0,0,0,4.865,46.41a14.072,14.072,0,0,0,1.714.094c2.112,0,5.7-.39,8.066-2.754a8.175,8.175,0,0,0,1.542-2.181l1.107,1.107a1.484,1.484,0,0,0,2.075.023L22.605,39.6,26.662,49.1a1.484,1.484,0,0,0,1.256.9c.037,0,.073,0,.109,0a1.485,1.485,0,0,0,1.265-.708c5.2-8.476,4.284-14.211,3.492-16.561,1.631-1.4,3.222-2.886,4.631-4.3A44.531,44.531,0,0,0,48.095,10.648,40.158,40.158,0,0,0,50,1.571,1.486,1.486,0,0,0,49.565.435ZM4.856,21.8a19.034,19.034,0,0,1,8.354-2.235h.033a10.847,10.847,0,0,1,1.967.177,30.947,30.947,0,0,0-3.3,5.073ZM12.547,41.65c-1.663,1.663-4.478,1.9-6.082,1.884-.016-1.6.221-4.419,1.884-6.082A5.842,5.842,0,0,1,10.7,36.084l3.211,3.211A5.841,5.841,0,0,1,12.547,41.65Zm5.82-2.1-7.915-7.915,2.457-2.569,8.027,8.027ZM28.2,45.143l-3.014-7.054a30.943,30.943,0,0,0,5.074-3.3,10.752,10.752,0,0,1,.173,1.732A18.716,18.716,0,0,1,28.2,45.143Zm7.116-18.808c-4.43,4.43-8.971,7.988-11.717,9.223L14.443,26.4c1.235-2.746,4.793-7.287,9.223-11.717A40.74,40.74,0,0,1,37.045,5.9l7.047,7.047A40.43,40.43,0,0,1,35.317,26.335Zm9.9-16.458-5.1-5.1.051-.017a42.481,42.481,0,0,1,6.655-1.585A42.752,42.752,0,0,1,45.215,9.877Z" fill="#ff8e0a"/>
+            </g>
+          </g>
+          <g id="Group_45" data-name="Group 45">
+            <g id="Group_44" data-name="Group 44">
+              <path id="Path_28" data-name="Path 28" d="M36.661,13.339a5.664,5.664,0,1,0,0,8.01A5.67,5.67,0,0,0,36.661,13.339Zm-2.1,5.911a2.7,2.7,0,1,1,.79-1.906A2.678,2.678,0,0,1,34.562,19.251Z" fill="#ff8e0a"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Symbol_10_13" data-name="Symbol 10 – 13" transform="translate(418 714)" clip-path="url(#clip-path)">
+      <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-418 -690)" clip-path="url(#clip-path-4)">
+        <g id="umbrella" transform="translate(418 690)">
+          <g id="Group_38" data-name="Group 38">
+            <path id="Path_21" data-name="Path 21" d="M49.307,22.39a1.953,1.953,0,0,0-3.8.924,20.383,20.383,0,0,1,.416,2.259A23.736,23.736,0,0,0,40.82,25a20.383,20.383,0,0,0-5.639,1.063c-.468-8.734-3.119-14.455-5.429-17.848a20.747,20.747,0,0,1,12.307,7.8,1.953,1.953,0,0,0,3.12-2.35,24.647,24.647,0,0,0-8.706-7.2,25.82,25.82,0,0,0-9.521-2.584V1.953a1.953,1.953,0,0,0-3.906,0V3.88a25.111,25.111,0,0,0-15.7,6.934A23.968,23.968,0,0,0,0,28.223a1.953,1.953,0,0,0,2.73,1.792,17.727,17.727,0,0,1,6.255-1.109,24.389,24.389,0,0,1,6.95,1.7,1.947,1.947,0,0,0,1.5.012l.012,0,.008,0q.074-.031.145-.068a18.245,18.245,0,0,1,5.446-1.518V44.141a1.955,1.955,0,0,1-1.953,1.953,2,2,0,0,1-1.953-2,1.953,1.953,0,0,0-3.906,0,5.859,5.859,0,1,0,11.719.046V29.024a18.267,18.267,0,0,1,5.437,1.513,1.958,1.958,0,0,0,1.7.061,22.515,22.515,0,0,1,6.735-1.691,19.475,19.475,0,0,1,6.492,1.126A1.953,1.953,0,0,0,50,28.223,24.694,24.694,0,0,0,49.307,22.39Zm-34.49,3.7A21.522,21.522,0,0,0,8.984,25a22.6,22.6,0,0,0-4.908.546A20.415,20.415,0,0,1,20.246,8.217C17.935,11.614,15.282,17.341,14.817,26.085ZM25,25a22,22,0,0,0-6.261.947,32.4,32.4,0,0,1,3.685-13.815A19.9,19.9,0,0,1,25,8.463a19.731,19.731,0,0,1,2.45,3.45,32.163,32.163,0,0,1,3.808,14.034A22,22,0,0,0,25,25Z" fill="#ff8e0a"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Symbol_9_13" data-name="Symbol 9 – 13" transform="translate(718 714)" clip-path="url(#clip-path)">
+      <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(-718 -690)" clip-path="url(#clip-path-6)">
+        <g id="_24-hours" data-name="24-hours" transform="translate(718 690)">
+          <g id="Group_40" data-name="Group 40">
+            <g id="Group_39" data-name="Group 39">
+              <path id="Path_22" data-name="Path 22" d="M14.509,28.826a1.953,1.953,0,0,0,1.311,3.4h6.055a1.953,1.953,0,0,0,0-3.906h-1.4c2.853-3.234,3.226-4.828,3.226-5.859a4.888,4.888,0,0,0-4.883-4.883l-.035,0-.035,0a4.888,4.888,0,0,0-4.883,4.883,1.953,1.953,0,0,0,3.906,0,.99.99,0,0,1,.977-.977l.035,0,.035,0a.99.99,0,0,1,.976.956c-.019.1-.26,1.107-2.558,3.641C15.877,27.583,14.522,28.814,14.509,28.826Z" fill="#ff8e0a"/>
+              <path id="Path_23" data-name="Path 23" d="M35.912,43.056A21.054,21.054,0,0,1,25,46.094,1.953,1.953,0,0,0,25,50a24.96,24.96,0,0,0,12.936-3.6,1.953,1.953,0,1,0-2.024-3.341Z" fill="#ff8e0a"/>
+              <path id="Path_24" data-name="Path 24" d="M42.678,7.322A25,25,0,0,0,3.824,38.294a25.089,25.089,0,0,0,7.752,7.8H6.152a1.953,1.953,0,0,0,0,3.906h5.963a6.257,6.257,0,0,0,6.25-6.25V37.988a1.953,1.953,0,0,0-3.906,0v5.288a21.128,21.128,0,1,1,28.058-6.568,1.953,1.953,0,1,0,3.247,2.171A24.938,24.938,0,0,0,42.678,7.322Z" fill="#ff8e0a"/>
+              <path id="Path_25" data-name="Path 25" d="M28.613,17.578a1.953,1.953,0,0,0-1.953,1.953v2.393A5.319,5.319,0,0,0,33.4,27.053v3.22a1.953,1.953,0,0,0,3.906,0V19.531a1.953,1.953,0,0,0-3.906,0v2.393a1.416,1.416,0,0,1-2.832,0V19.531A1.953,1.953,0,0,0,28.613,17.578Z" fill="#ff8e0a"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Symbol_8_13" data-name="Symbol 8 – 13" transform="translate(1018 714)" clip-path="url(#clip-path)">
+      <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(-1018 -690)" clip-path="url(#clip-path-8)">
+        <g id="credit-card_1_" data-name="credit-card (1)" transform="translate(1018 690)">
+          <g id="Group_41" data-name="Group 41">
+            <path id="Path_26" data-name="Path 26" d="M48.047,27.746A1.953,1.953,0,0,0,50,25.793V14.453a7.821,7.821,0,0,0-7.812-7.812H7.813A7.821,7.821,0,0,0,0,14.453V35.547a7.821,7.821,0,0,0,7.813,7.813H42.188A7.821,7.821,0,0,0,50,35.547a1.953,1.953,0,0,0-3.906,0,3.911,3.911,0,0,1-3.906,3.906H7.813a3.911,3.911,0,0,1-3.906-3.906V20.91H46.094v4.883A1.953,1.953,0,0,0,48.047,27.746ZM3.906,17V14.453a3.911,3.911,0,0,1,3.906-3.906H42.188a3.911,3.911,0,0,1,3.906,3.906V17Z" fill="#ff8e0a"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Free_Shipping" data-name="Free Shipping" transform="translate(183 734)" fill="#646464" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Free Shipping</tspan></text>
+    <text id="_100_Money_Guarantee" data-name="100% Money Guarantee" transform="translate(483 734)" fill="#646464" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">100% Money Guarantee</tspan></text>
+    <text id="Help_Center" data-name="Help Center" transform="translate(783 734)" fill="#646464" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Help Center</tspan></text>
+    <text id="Payment_Method" data-name="Payment Method" transform="translate(1083 734)" fill="#646464" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Payment Method</tspan></text>
+    <text id="Free_Shipping_All_Order" data-name="Free Shipping All Order" transform="translate(183 756)" fill="#646464" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Free Shipping All Order</tspan></text>
+    <text id="_30_days_money_back" data-name="30 days money back" transform="translate(483 756)" fill="#646464" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">30 days money back</tspan></text>
+    <text id="_24_7_Support_System" data-name="24/7 Support System" transform="translate(783 756)" fill="#646464" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">24/7 Support System</tspan></text>
+    <text id="Secure_Payment" data-name="Secure Payment" transform="translate(1083 756)" fill="#646464" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Secure Payment</tspan></text>
+  </g>
+</svg>
