@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="40" height="40" fill="none"/>
+    </clipPath>
+    <filter id="Ellipse_8" x="-9" y="-6" width="58" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Symbol_19_16" data-name="Symbol 19 – 16" clip-path="url(#clip-path)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_8)">
+      <g id="Ellipse_8-2" data-name="Ellipse 8" fill="#fff" stroke="#e2e2e2" stroke-width="1">
+        <circle cx="20" cy="20" r="20" stroke="none"/>
+        <circle cx="20" cy="20" r="19.5" fill="none"/>
+      </g>
+    </g>
+    <g id="up-arrow_1_" data-name="up-arrow (1)" transform="translate(12.001 -82.996)">
+      <g id="Group_181" data-name="Group 181" transform="translate(-0.001 97.996)">
+        <path id="Path_85" data-name="Path 85" d="M15.451,104.67a.625.625,0,0,0-.884.884.625.625,0,0,1-.442,1.067H1.874a.625.625,0,0,1-.442-1.067l6.126-6.126a.625.625,0,0,1,.883,0l4.023,4.04a.625.625,0,1,0,.886-.882L9.325,98.545a1.877,1.877,0,0,0-2.652,0L.548,104.67a1.875,1.875,0,0,0,1.326,3.2H14.125a1.875,1.875,0,0,0,1.326-3.2Z" transform="translate(0.001 -97.996)" fill="#ff8e0a"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -31,25 +31,37 @@
     <!--        TOP NAVIGATION BAR END ------------------------------------    -->
     
     <!--        HEADER --------------------------------------------    -->
-    <div class="header">
-        <a class="header_left" href="#home"><img src="resource/logo_text.svg"></a>
-        <div class="search-container">
-          <form action="/action_page.php">
-            <!-- TODO: action for search bar-->
-            <input type="text" placeholder="Search..." name="search">
-            <button type="submit"><img src="resource/search.svg"></button>
-          </form>
+    
+        <div class="container">
+            <div class="logo">
+               <a href="#"><img src="resource/logo_text.svg" alt="logo"></a>
+            </div>
+            <div class="navbar">
+                <div class="icon-bar" onclick="Show()">
+                    <i></i>
+                    <i></i>
+                    <i></i>
+                </div>
+                <ul id="nav-lists">
+                    <li class="close"><span onclick="Hide()">×</span></li>
+                    <li><a href="#">LOG IN</a></li>
+                    <li><a href="#">SIGN UP</a></li>
+                    <li><a href="#"><img src="resource/heart.svg" alt="wishlist">WISHLIST</a></li>
+                    <li><a href="#"><img src="resource/shopping-cart.svg" alt="cart">MY CART</a></li>
+                </ul>
+            </div>
         </div>
-
-      </div>
+        
       <hr style="margin-left: 11%;margin-right: 11%;">
+     
+    
     
       <!--        HEADER END --------------------------------------    -->
     
       <!--        ------------ BODY START ------------------------------------   -->
 
 
-
+      <p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
 
 
 
@@ -58,9 +70,78 @@
     <!--        ------------ BODY END ------------------------------------    -->
     <center>
         <div class="bottom_information">
-            <a href="#bottom_information"><img src="resource/bottom_information.svg"></a>
+            <div class="bottom_information_row">
+                <div class="bottom_information_column">
+                  <img width="40px" height="40px" src="resource/Symbol 11 – 13.svg">
+                  <p style="display:inline-block; font-weight: bold; color: #646464;">Free Shipping
+                    <span style="display:block; font-weight: normal;font-size: small;">Free Shipping all order</span>
+                  </p>
+                  
+                </div>
+                <div class="bottom_information_column">
+                    <img width="40px" height="40px" src="resource/Symbol 10 – 13.svg">
+                    <p style="display:inline-block; font-weight: bold; color: #646464;">Refund Policy
+                        <span style="display:block; font-weight: normal;font-size: small;">30 days money back</span>
+                      </p>
+                </div>
+                <div class="bottom_information_column">
+                    <img width="40px" height="40px" src="resource/Symbol 9 – 13.svg">
+                    <p style="display:inline-block; font-weight: bold; color: #646464;">Help Center
+                        <span style="display:block; font-weight: normal;font-size: small;">24/7 Support System</span>
+                      </p>
+                </div>
+                <div class="bottom_information_column">
+                    <img width="40px" height="40px" src="resource/Symbol 8 – 13.svg">
+                    <p style="display:inline-block; font-weight: bold; color: #646464;">Payment Method
+                        <span style="display:block; font-weight: normal;font-size: small;">Secure Payment</span>
+                      </p>
+                </div>
+            </div>    
         </div>
-    </center>
+        <p><br></p>
+        <div class="most_search" style="border: 2px solid #E2E2E2;" >
+            <div style="width: 80%;">
+            <ul style="list-style: none;margin-top: -25px; ">
+                <li style="float: left;"><h3 style="color: #646464">Most Search Keywords</h3></li>
+                <li style="float:left;color: #646464;font-size: smaller;"><strong>Laptops:</strong> Appleo Laptop  |  Acero Laptop  |  Samsing Laptop  |  Lenov Laptop  |  Sonyo Laptop  |  Delli Laptop  |  Asuso Laptop  |  Toshibao Laptop  |  LGG Laptop  |  HPO Laptop</p></li>
+                <li style="float:left;color: #646464;font-size: smaller;"><strong>Watches:</strong>FUKIO Watches   |  Titan Watches   |  Casioo Watches   |  Fastrack Watches   |  Timexi Watches   |   Fossili Watches   |  Dieselo Watches   |  Toshibao Watches   |  Luxury Watches</p></li>
+                <li style="float:left;color: #646464;font-size: smaller;"><strong>Shoes:</strong> Shoes   |  Casual Shoes   |  Sports Shoes  |  Adidasi Shoes   |  Gas Shoes   |  Pumai Shoes   |  Reeboki Shoes   |  Woodlandi Shoes   |  Red Tape Shoes   |  Nikeo Shoes</p></li>
+            </ul>
+            </div>
+        </div>
+        
+        <div class="bottom_information_footer" >
+            <div class="bottom_information__footer_row">
+                <div class="bottom_information_footer_column">
+                  <h3 style="color: white;">Contact us</h3>
+                  <p>+91 987654321</p>
+                  <p>manager@youshop.com</p>
+                  <p>Jadavpur University, Salt<br>
+                     Lake City, Sec 3, Kolkata,<br>
+                    West Bengal- 700098</p>
+                </div> 
+              
+                <div class="bottom_information_footer_column">
+                    <h3  style="color: white;">Quick Links</h3>
+                    <p>Seller Login</p>
+                    <p>Seller Sign Up</p>
+                    <p>Seller FAQs</p>
+                </div>  
+                <div class="bottom_information_footer_column">
+                    <img src="resource/social_icon.svg" alt="social_icon" style=" width: 150px; height: 150px;">
+                </div>  
+                <div class="bottom_information_footer_column">
+                    <h3  style="color: white;">Subscribe Now</h3>
+                    <p>Get Latest offers details.</p>               
+                </div>  
+            </div>
+        </div>
+        <footer id="footer">
+            <p style="float: left;margin-left: 10%;">Copyright © 2018 JU Student IT Dept.</p>
+            <img style="float: right;margin-top: 10px;margin-right: 10%;" src="resource/footer_icon.svg" alt="payment accepted">
+        </footer>
 
+    </center>
+    <script src="js/script.js"></script>
 </body>
 </html>
