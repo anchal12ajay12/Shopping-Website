@@ -12,6 +12,30 @@
     type = "image/x-icon"> 
 
     <link rel="stylesheet" href="style/style.css">
+    <style>
+    #partitioned {
+  padding-left: 15px;
+  letter-spacing: 42px;
+  background-image: linear-gradient(to left, black 70%, rgba(255, 255,255,0) 0%);
+  background-position: bottom;
+  background-size: 60px 1px;
+  background-repeat: repeat-x;
+  background-position-x: 35px;
+  width: 220px;
+}
+
+input[type=submit] {
+  background-color: #FF8E0A;
+  color: white;
+  cursor: pointer;
+  width: 30%;
+}
+
+input[type=submit]:hover {
+  background-color: rgb(255, 123, 0);
+}
+
+    </style>
 </head>
 <body>
     <!--        TOP NAVIGATION BAR --------------------------------------    -->
@@ -59,22 +83,17 @@
     
       <!--        ------------ BODY START ------------------------------------   -->
 
-      <center>
-      
-      <div class="container_login">
-        <form  action="login_action_page.php" method="post">
-          <div class="row_login">
-            <h2 style="text-align:center ;color: rgb(80, 80, 80);">LOG IN</h2>
-            <div class="col_login">
-                <input id="container_login_email" type="text" name="uname" placeholder="Email" required>
-                <input id="container_login_pass" type="password" name="password" placeholder="Password" required>
-                <input onclick="otp()" id="container_login_sub" type="submit" value="Login In">
-            </div>
-          </div>
-        </form>
-      </div>
-      </center>
 
+          <center>
+      <p style="color:#FF8E0A">An OTP has been sent to your registered email</p>
+      <br><br>
+      <div class="otpBox"><h4>Enter One Time Password</h4></div>
+      <form action="otp.php" method="post">
+          <input align="center" id="partitioned" name="otp" type="text" maxlength="4" />
+          <br><br>
+          <input onclick="index()" type="submit" align="center" value="Submit"/>
+      </form>
+      </center>
 
 
 
@@ -154,26 +173,17 @@
 
     </center>
     <script src="js/script.js"></script>
-    <script>
-        var x6 = document.getElementById("container_login_email");
-        var x7 = document.getElementById("container_login_pass");
-        var x8 = document.getElementById("container_login_sub");
-        function Show() {
-            navList.classList.add("_Menus-show");
-            x6.style.visibility="hidden";
-            x7.style.visibility="hidden";
-            x8.style.visibility = "hidden";
-        }
-
-        function Hide(){
-            navList.classList.remove("_Menus-show");
-            x6.style.visibility = "visible";
-            x7.style.visibility = "visible";
-            x8.style.visibility = "visible";
-        }
-
-    </script>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
 
 

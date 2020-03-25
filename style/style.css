@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #F9F9F9;
+    background: linear-gradient(to right,#F9F9F9,#F9F9F9);
   }
   
   /*topnav bar start---------------------------*/
@@ -48,6 +48,7 @@ body {
     
   }
   /*topnav bar end---------------------------------*/
+
   /*header start-----------------------------------*/
   *,
 *::before,
@@ -57,6 +58,8 @@ body {
 }
 
 .container {
+  margin-left: 10%;
+  margin-right: 10%;
   height: 60px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -70,7 +73,7 @@ body {
 }
 
 .container .logo {
-  max-width: 250px;
+  width: 250px;
   padding: 0 10px;
   overflow: hidden;
 }
@@ -88,7 +91,7 @@ body {
 }
 
 .container .logo a img {
-  max-width: 100%;
+  max-width: 90%;
   max-height: 60px;
 }
 
@@ -132,6 +135,8 @@ body {
 .container .navbar ul li a:hover {
   color: #ffffff;
   background-color: #FF8E0A;
+  font-size: larger;
+  border-radius: 20px;
 }
 
 .container .navbar ul .close {
@@ -169,7 +174,7 @@ body {
   height: 2px;
 }
 
-@media only screen and (max-width: 892px) {
+@media only screen and (max-width: 900px) {
   .container {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
@@ -226,6 +231,7 @@ body {
 
   .container .navbar ._Menus-show {
     left: 0;
+    height: 250px;
   }
 }
 
@@ -235,16 +241,109 @@ body {
   padding: 10px;
 }
   
-
-
-
-
-
   /*Header end--------------------------------------*/
 
-  /*bottom information-------------------------------*/
-  /* Create four equal columns that floats next to each other */
 
+  /* body---------------------------------------------------------------*/
+
+    
+/*signup container------------------*/
+.container_signup {
+  margin: 0 25% 1% 25%; 
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px 0 20px 0;
+  z-index: 1;
+}
+.container_login{
+  margin: 0 25% 1% 25%; 
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px 0 20px 0;
+  z-index: 1;
+}
+
+input,
+.btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; 
+}
+
+input:hover,
+.btn:hover {
+  opacity: 1;
+}
+
+
+input[type=submit] {
+  
+  background-color: #FF8E0A;
+  color: white;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: rgb(255, 123, 0);
+}
+
+.col_signup {
+  align-self: center;
+  width: 70%;
+  margin: auto;
+  padding: 0 0px;
+  margin-top: 6px;
+}
+.row_signup:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.col_login {
+  align-self: center;
+  width: 70%;
+  margin: auto;
+  padding: 0 0px;
+  margin-top: 6px;
+}
+.row_login:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.bottom-container {
+  text-align: center;
+  
+  background-color: #666;
+  border-radius: 0px 0px 4px 4px;
+}
+
+@media screen and (max-width: 800px) {
+  .container_signup {
+    margin: 0 15% 1% 15%; 
+  }
+  .container_login{
+    margin: 0 15% 1% 15%;
+  }
+}
+/* signup container END*/
+
+
+
+  /*body end ---------------------------------------------*/
+
+
+  /*bottom information-------------------------------*/
+  
   .bottom_information{
     width: 80%;
     border: 5px solid #E2E2E2;
@@ -310,4 +409,6 @@ clear: both;
   
 }
 
-  /*bottom information end*/
+/*footer end---------------------*/
+/* bottom information end*/
+
